@@ -2,7 +2,7 @@ require 'sinatra'
 class App < Sinatra::Base
 
   get '/' do 
-    "Hello, world!"
+    <h1>"Hello, world!"</h1>
   end
 
 end
